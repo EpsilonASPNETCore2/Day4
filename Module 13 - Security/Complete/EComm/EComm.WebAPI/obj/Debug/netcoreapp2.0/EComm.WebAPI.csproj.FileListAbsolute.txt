@@ -1,0 +1,15 @@
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\EComm\EComm.WebAPI\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\EComm\EComm.WebAPI\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\EComm\EComm.WebAPI\bin\Debug\netcoreapp2.0\EComm.WebAPI.deps.json
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\EComm\EComm.WebAPI\bin\Debug\netcoreapp2.0\EComm.WebAPI.runtimeconfig.json
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\EComm\EComm.WebAPI\bin\Debug\netcoreapp2.0\EComm.WebAPI.runtimeconfig.dev.json
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\EComm\EComm.WebAPI\bin\Debug\netcoreapp2.0\EComm.WebAPI.dll
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\EComm\EComm.WebAPI\bin\Debug\netcoreapp2.0\EComm.WebAPI.pdb
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\EComm\EComm.WebAPI\obj\Debug\netcoreapp2.0\EComm.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\EComm\EComm.WebAPI\obj\Debug\netcoreapp2.0\EComm.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\EComm\EComm.WebAPI\obj\Debug\netcoreapp2.0\EComm.WebAPI.AssemblyInfo.cs
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\EComm\EComm.WebAPI\obj\Debug\netcoreapp2.0\EComm.WebAPI.dll
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\EComm\EComm.WebAPI\obj\Debug\netcoreapp2.0\EComm.WebAPI.pdb
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\EComm\EComm.WebAPI\obj\Debug\netcoreapp2.0\EComm.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\EComm\EComm.WebAPI\bin\Debug\netcoreapp2.0\EComm.Data.dll
+C:\Users\Geek\Documents\ASP.NET Core Preview 2\Visual Studio\EComm\EComm.WebAPI\bin\Debug\netcoreapp2.0\EComm.Data.pdb

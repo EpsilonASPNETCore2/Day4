@@ -1,0 +1,24 @@
+﻿@model IEnumerable<EComm.Data.Product>
+@{
+    ViewData["Title"] = "Products Page";
+}
+<h1>Products</h1>
+<h4>@await Component.InvokeAsync("ProductCount")</h4>
+@*<h4>@await Component.InvokeAsync("Partial")</h4>*@
+
+<div class="row">
+    <div class="col-md-12">
+        <table class="table-striped">
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>
+                        <a asp-controller="Product" asp-action="Detail"
+                            asp-route-id="@product.Id">@product.ProductName</a>
+                    </td>
+                    <td>@product.FormattedUnitPrice</td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>

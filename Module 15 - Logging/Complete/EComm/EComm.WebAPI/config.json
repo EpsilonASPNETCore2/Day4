@@ -1,0 +1,18 @@
+﻿{
+  "option1": "value1_from_json",
+  "option2": 2,
+
+  "subsection": {
+    "suboption1": "subvalue1_from_json"
+  },
+  "collection": [
+    {
+      "Name": "Name1",
+      "Age": "50"
+    },
+    {
+      "Name": "Name2",
+      "Age": "20"
+    }
+  ]
+}
